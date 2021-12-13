@@ -1,4 +1,3 @@
-# hello-world
-this repository is my first repository ,just for practice
+# Hello Github
 
-today is the first day for me to learn github.
+**This repository is my first repository, just for practice.**
